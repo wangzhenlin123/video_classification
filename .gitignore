@@ -1,0 +1,7 @@
+/data/
+/__pycache__/
+*.pth
+*.npy
+*.zip
+*.rar
+*.mp4
